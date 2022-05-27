@@ -1,0 +1,33 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+section{
+    height: 90vh;
+    width: 180%;
+    background-color: rgb(66, 62, 77);
+   background-position: left;
+   background-repeat: no-repeat;
+   background-size: 10.6cm;
+   
+}
+
+button{
+    height: 50px;
+    width: 180px;
+    background-color: rgb(235, 177, 194);
+    color: black;
+    border: 2px solid rgb(169, 112, 216);
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 0.1cm;
+}
+
+
+.btn-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
