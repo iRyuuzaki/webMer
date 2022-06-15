@@ -11,20 +11,15 @@ header{
     font-family: Verdana,Helvetica;
     font-size: 25px;
     position: fixed;
-    left: 0;
-    top: 0;
-    width: 100%;
     background-image: url("header.jpg");
     background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
 }
 
 section{
-   height: 90vh;
+   height: 80vh;
    width: 100%;
    background-color: rgb(167, 208, 240 );
-   background-image: url("footer.jpg");
+   background-image: url("footer.png") ;
    background-position: center;
    background-repeat: no-repeat;
    background-size: 9.5cm;   
@@ -33,7 +28,7 @@ section{
 
 
 button{
-    height: 50px;
+    height: 55px;
     width: 180px;
     font-size:22px;
     font-family: "Console", monospace ;
