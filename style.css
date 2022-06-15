@@ -13,6 +13,7 @@ header{
     position: fixed;
     background-image: url("loguito.jpg");
     background-position: center;
+    background-repeat: no-repeat;
 }
 
 section{
